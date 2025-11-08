@@ -17,6 +17,7 @@ public class Bill {
 
     //we can compute here with help of booking as booking have vehicle -> vehicle have the cost (hourly/daily) and booking have the entire time period for which its booked;
     private Double computeBillAmount() {
+        System.out.println("TOtal bill to be paid is : 1000");
         return 1000.0;
     }
 

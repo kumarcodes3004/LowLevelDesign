@@ -3,6 +3,7 @@ package com.satyam.Product;
 
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 import org.springframework.stereotype.Component;
 
 import java.util.Date;
@@ -10,6 +11,7 @@ import java.util.Date;
 @Getter
 @Setter
 @Component
+@ToString
 public class Vehicle {
     int vehicleId;
     int vehicleNumber;
