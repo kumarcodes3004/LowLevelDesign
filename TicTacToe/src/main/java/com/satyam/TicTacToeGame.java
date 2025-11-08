@@ -52,7 +52,7 @@ public class TicTacToeGame {
                 continue;
             }
 
-            System.out.println("Player : "+playerTurn.getName() + "Enter row,col: ");
+            System.out.println("Player : "+playerTurn.getName() + " Enter row,col: ");
             Scanner inputScanner =new Scanner(System.in);
             String s =inputScanner.nextLine();
             String[] values = s.split(",");

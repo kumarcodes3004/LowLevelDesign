@@ -23,6 +23,7 @@
 	</developers>
     <modules>
         <module>TicTacToe</module>
+        <module>CarRentalSystem</module>
     </modules>
     <scm>
 		<connection/>
