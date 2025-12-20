@@ -25,6 +25,7 @@
         <module>TicTacToe</module>
         <module>CarRentalSystem</module>
         <module>BookMyShow</module>
+        <module>StateDesignPattern</module>
     </modules>
     <scm>
 		<connection/>
