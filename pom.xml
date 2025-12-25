@@ -26,6 +26,8 @@
         <module>CarRentalSystem</module>
         <module>BookMyShow</module>
         <module>StateDesignPattern</module>
+        <module>CompositeDesignPattern</module>
+        <module>StrategyDesignPattern</module>
     </modules>
     <scm>
 		<connection/>
